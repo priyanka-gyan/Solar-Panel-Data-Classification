@@ -1,2 +1,3 @@
 # Solar-Panel-Data-Classification
-Solar power generation forecast
+
+The classification of data is done in order to predict the power generation for next couple of days using different ML algorithms and in order to improve the efficiency of power generation by forecast analysis.
